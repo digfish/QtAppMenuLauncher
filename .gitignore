@@ -1,0 +1,13 @@
+.idea/
+.__pycache__/
+book-examples/
+build/
+dist/
+*.json
+*.pyc 
+*.pyo
+*.pyd
+*.ui
+form_runner.py 
+testrun.py
+ui_form_1.py
