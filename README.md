@@ -9,7 +9,6 @@ The implementation was described in the post article [Select the best GUI toolki
 ## Running
 
 Clone locally the project, and on VSCode open it. The main script is `qtlauncher.py`. You can run it from the IDE or from the command line.
-If you just want to run the app without an IDE, use the `run*` script according to your platform.
 There is an executable for Windows, which you can find in the `releases` section.
 
 
